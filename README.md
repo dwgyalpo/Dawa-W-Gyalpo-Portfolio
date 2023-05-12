@@ -38,7 +38,7 @@ Hello! I am Dawa Wangchuk Gyalpo.I am currently pursuing my masters degree in St
 
 •	Created a visualization which shows relationship among food security, delay in degree completion, and difficulty of concentration in school.
 
-![](/Images/Question%202%20plot%203.png)
+![](Images/Question%202%20plot%203.png)
 
 ## Question 3 
 •	Created a visualization which shows relationship between gender and difficulty of concentration in school.
