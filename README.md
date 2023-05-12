@@ -5,4 +5,5 @@ Hello! I am Dawa Wangchuk Gyalpo.I am currently pursuing my masters degree in St
 
 # Homework 4 
 •	Created a visualization which displays the amounts of COVID -19 cases and deaths for the country Bhutan.
-![]()
+![](https://github.com/dwgyalpo/Dawa_W_Gyalpo_Portfolio/blob/main/Images/Homework%204.png)
+
