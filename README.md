@@ -14,7 +14,7 @@ Hello! I am Dawa Wangchuk Gyalpo.I am currently pursuing my masters degree in St
 ![](/Images/Homework%205.png)
 
 # Homework 6
-•	Created a visualization with at least two continuous scale variables and a categorical variable for grouping. It displays the association in some manner that allows the viewers to see if association between the continuous variables differs across the categorical groups.
+•	Created a visualization with at least two continuous scale variables (Age and Maximum heart rate) and a categorical variable (Heart disease for grouping. It displays association between age and maximum heart rate across the heart disease patient.
 
 ![](/Images/Homework%206.png)
 
