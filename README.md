@@ -6,9 +6,15 @@ Hello! I am Dawa Wangchuk Gyalpo.I am currently pursuing my masters degree in St
 # Homework 4 
 •	Created a visualization which displays the amounts of COVID -19 cases and deaths for the country Bhutan.
 
-![](https://github.com/dwgyalpo/Dawa_W_Gyalpo_Portfolio/blob/main/Images/Homework%204.png)
+![](/Images/Homework%204.png)
 
 # Homework 5
 •	Created a visualization which displays the distributions of Gene Variant Transcriptions.
 
-![](https://github.com/dwgyalpo/Dawa_W_Gyalpo_Portfolio/blob/main/Images/Homework%205.png)
+![](/Images/Homework%205.png)
+
+# Homework 6
+•	Created a visualization with at least two continuous scale variables and a categorical variable for grouping. It displays the association in some manner that allows the viewers to see if association between the continuous variables differs across the categorical groups.
+
+![](/Images/Homework%206.png)
+
