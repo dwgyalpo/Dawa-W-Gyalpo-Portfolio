@@ -52,5 +52,5 @@ Hello! I am Dawa Wangchuk Gyalpo.I am currently pursuing my masters degree in St
 
 •	Created a visualization which shows relationship among gender, delay in degree completion, and difficulty of concentration in school.
 
-![](Images/Question%203%20plot%203.png)
+![](Images/Question%203%20plot%203*.png)
 
